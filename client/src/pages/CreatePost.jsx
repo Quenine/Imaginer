@@ -50,7 +50,7 @@ const CreatePost = () => {
       alert('Please provide proper prompt');
     }
   };
-
+  
   const handleSubmit = async (e) => {
     e.preventDefault();
 
